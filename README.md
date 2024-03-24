@@ -8,3 +8,7 @@ Constructive criticism welcomed
 This repository is set up as part of Build your Brand Exercise
 
 Eventually it will be a host to portfolio projects for showcasing (in development!)
+
+The first example is the 
+Finance calculator
+designed to calculate compound and simple interest according to given formulas.
